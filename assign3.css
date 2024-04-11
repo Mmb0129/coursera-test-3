@@ -1,0 +1,16 @@
+
+.tall-section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.tall-section h2 {
+    color: #333;
+}
+
+.tall-section p {
+    color: #666;
+}
